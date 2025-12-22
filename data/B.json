@@ -1,0 +1,43 @@
+{
+    "id": 34085027,
+    "name": "B",
+    "author": "motleyorc",
+    "creators": [],
+    "verifier": "Crungie",
+    "verification": "https://www.youtube.com/watch?v=ohKPqGxotao",
+    "percentToQualify": 100,
+    "diffilculty": "Medium",
+    "gddl": 5.79,
+    "records": [
+        {
+            "user": "qGato",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "SethKingOfRats",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "yMaxy",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "GeneralSheep_",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "oSzabi",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "axofr",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": 118509879,
+    "name": "Skeletal Shenanigans",
+    "author": "YoReid",
+    "creators": ["YoReid", "Airzyy"],
+    "verifier": "SethKingOfRats",
+    "verification": "https://www.youtube.com/watch?v=mgzTHUKATqo",
+    "percentToQualify": 100,
+    "diffilculty": "Medium",
+    "gddl": 6.75,
+    "records": [
+        {
+            "user": "yMaxy",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "GeneralSheep_",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}
