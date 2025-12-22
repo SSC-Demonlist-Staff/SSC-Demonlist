@@ -2,12 +2,17 @@
     "id": 68408784,
     "name": "Temple of Time",
     "author": "DavJT",
-    "creators": ["Creator1", "Creator2", "Creator3"],
+    "creators": [],
     "verifier": "Crungie",
     "verification": "https://medal.tv/games/geometry-dash/clips/k6k3JZe6usBRofK6v?invite=cr-MSxhZmYsMjA2NjE3Mjk1&v=145",
     "percentToQualify": 100,
     "diffilculty": "Hard",
     "gddl": 11.17,
     "records": [
+        {
+            "user": "qGato",
+            "link": "https://medal.tv/games/geometry-dash/clips/k6k3JZe6usBRofK6v?invite=cr-MSxhZmYsMjA2NjE3Mjk1&v=145",
+            "percent": 100
+        }
     ]
 }
