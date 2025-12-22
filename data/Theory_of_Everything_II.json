@@ -1,0 +1,28 @@
+{
+    "id": 18,
+    "name": "Theory of Everything II",
+    "author": "RobTob",
+    "creators": [],
+    "verifier": "Crungie",
+    "verification": "https://www.youtube.com/watch?v=941kwRKq2Bw ",
+    "percentToQualify": 100,
+    "diffilculty": "Main",
+    "gddl": 3.03,
+    "records": [
+        {
+            "user": "qGato",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "GeneralSheep_",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "oSzabi",
+            "link": "",
+            "percent": 100
+        }
+    ]
+} 
