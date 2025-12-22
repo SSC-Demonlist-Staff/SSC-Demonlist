@@ -56,7 +56,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">GDDL Tier</div>
-                            <p>{{ level.gddl tier || 'Unrated' }}</p>
+                            <p>{{ level.gddl_tier || 'Unrated' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
