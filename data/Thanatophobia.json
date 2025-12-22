@@ -2,11 +2,10 @@
     "id": 62809982,
     "name": "Thanatophobia",
     "author": "ARTu",
+    "creators": ["Creator1", "Creator2", "Creator3"],
     "verifier": "qGato",
     "verification": "https://medal.tv/games/geometry-dash/clips/k6k3JZe6usBRofK6v?invite=cr-MSxhZmYsMjA2NjE3Mjk1&v=145",
-    "percentToQualify": "100",
-    "Diffilculty": "Insane",
-    "GDDL Tier": 19.84,
+    "percentToQualify": 100,
     "records": [
     ]
 }
